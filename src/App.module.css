@@ -1,0 +1,28 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  min-width: 400px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+@media (min-width: 1000px) {
+  .mainContainer {
+    padding-top: 150px;
+  }
+}
+
+.contentContainer {
+  display: flex;
+  width: 100%;
+  max-width: 1000px;
+  min-height: 200px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 5px;
+}
