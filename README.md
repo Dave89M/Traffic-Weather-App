@@ -35,5 +35,5 @@ Build for production mode
 
 ## Screenshots
 
-![web](./screenshots/web.png)
-![mobile](./screenshots/mobile.png)
+![web](./screenshot/web.jpg)
+![mobile](./screenshot/mobile.jpg)
