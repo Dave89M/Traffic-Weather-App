@@ -3,7 +3,7 @@ import { getCoordinatesList, getAlphabeticallySortedArray, getLocationNameMappin
 
 const API_URL = "https://api.data.gov.sg/v1/";
 const MAP_API_URL = "https://www.mapquestapi.com/geocoding/v1/batch";
-const MAP_API_KEY = 'F3Xyg2H1jA5OCyetnIJaTYh6Iepoh2Nd';
+const MAP_API_KEY = 'bv8WWVYj1hbjhPfE02ANUSaZdzLALiNt';
 const API_ENDPOINTS = {
   WEATHER: "environment/2-hour-weather-forecast",
   TRAFFIC: "transport/traffic-images",
